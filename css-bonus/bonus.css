@@ -1,3 +1,8 @@
+main, footer{
+  width: 900px;
+  margin: auto;
+}
+
 /* formattazione del contenitore */
 .container{
   width: 1000px;
